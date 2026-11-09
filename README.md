@@ -1,4 +1,4 @@
-google scripts: https://script.google.com/macros/s/AKfycbwbIRTRo_DXk3m-_28IPLMzDrR7apm6hlWPm0bf8a_0FI7cxIo4ZeOsudS6GjY181EA/exec
+google scripts: https://script.google.com/macros/s/AKfycbxjAMS2O_V5Tc72ejcx_wexRgYimt0Ibw5fn4vSYMM_qzCkA07yGkOTFWiccHq4WAr9/exec
 
 join the discord: https://discord.gg/AAr7ynwS3T
 
