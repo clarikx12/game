@@ -1,7 +1,6 @@
-Newest: 
-https://script.google.com/macros/s/AKfycbyiy_kHZ9cJB-2QV7z7d_aTRdTYiMMLacvo239ctJU-T75ke5qMsD11zpwTooDY0_7A/exec
+Newest: https://script.google.com/macros/s/AKfycbyC6L8A_f5HPgw0A5MSZYPUr7uiOc6YUAgrU6922j_89eTThWHGJW5UTjfEc_s5PTb9/exec 
 
-OLD VERSION:  https://script.google.com/macros/s/AKfycbw3WpJ4fuL-JXmOTWyEBcSTADawvuw9T5XyY1Zr6I5Cp7S1Ni7N_IV3g3exoYpBiQ/exec
+OLD VERSION:  https://script.google.com/macros/s/AKfycbyiy_kHZ9cJB-2QV7z7d_aTRdTYiMMLacvo239ctJU-T75ke5qMsD11zpwTooDY0_7A/exec
 
 join the discord: https://discord.gg/AAr7ynwS3T
 
