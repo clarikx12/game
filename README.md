@@ -5,3 +5,5 @@ OLD VERSION:  https://script.google.com/macros/s/AKfycbyiy_kHZ9cJB-2QV7z7d_aTRdT
 join the discord: https://discord.gg/AAr7ynwS3T
 
 if the link doesn't work wait for me to update it (shouldnt take more than 10 mins)
+
+newest version changelogs: ported new games
