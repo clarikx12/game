@@ -1,9 +1,5 @@
 
-# 🎮 clarG — Unblocked Games
-
-Welcome to **clarG**, your place to play unblocked games!
-
-## 🚀 Play Now
+# 🎮 clarG 
 
 <badge color="success">LATEST VERSION</badge>
 
