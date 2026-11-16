@@ -4,10 +4,10 @@
 <badge color="success">LATEST VERSION</badge>
 
 **Newest Version:**  
-[▶ Play clarG (Latest)](https://script.google.com/macros/s/AKfycbyVcM3ANiOAu3EkScQvRsRkByemMDjmOZXnexY5N2dHs0eHZUKaiyldIlok4zCgv_-2/exec)
+[▶ Play clarG (Latest)](https://script.google.com/macros/s/AKfycbyhYo0DXIGORUP3EW7GeiWdu7DkUETuqvsBQmg6kQLFq1yiy4hA85aRlfBoyIwMbLW4/exec)
 
 **Previous Version:**  
-[Play the Old Version](https://script.google.com/macros/s/AKfycbyC6L8A_f5HPgw0A5MSZYPUr7uiOc6YUAgrU6922j_89eTThWHGJW5UTjfEc_s5PTb9/exec)
+[Play the Old Version](https://script.google.com/macros/s/AKfycbyVcM3ANiOAu3EkScQvRsRkByemMDjmOZXnexY5N2dHs0eHZUKaiyldIlok4zCgv_-2/exec)
 
 ## ⚠️ Link Issues?
 
@@ -23,10 +23,10 @@ Have suggestions, found a bug, or just want to hang out?
 ## 📝 Latest Changelog
 
 ### Newest Version
-- Switched to a new game hosting provider.
-- Games should now load and run more reliably.
-- Improved overall game execution reliability.
+- Added a loading screen thingy for the thumbnails.
+- You can now resume a game if you left to go to the chatrooms.
+- FAQ section.
 
 ---
-
+please please please please please join the discord im begging you 
 **Thanks for using clarG!** ❤️
