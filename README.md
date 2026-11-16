@@ -4,7 +4,7 @@
 <badge color="success">LATEST VERSION</badge>
 
 **Newest Version:**  
-[▶ Play clarG (Latest)](https://script.google.com/macros/s/AKfycbz_h6SbXVnIzt5HGrEhk-PQDLSrsrBdVYmHNTRfQOdrpVQnxn3V7wW8u4-6Z3AO7J2S/exec)
+[▶ Play clarG (Latest)](https://script.google.com/macros/s/AKfycbwFgB3TDu8d72yuUCJxKZ-2ElgdQKprpubMPLrG-e8skeOqxsOB5RmmLAk74ADmnobN/exec)
 
 **Previous Version:**  
 [Play the Old Version](https://script.google.com/macros/s/AKfycbyVcM3ANiOAu3EkScQvRsRkByemMDjmOZXnexY5N2dHs0eHZUKaiyldIlok4zCgv_-2/exec)
