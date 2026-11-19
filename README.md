@@ -14,6 +14,8 @@ Try the Netlify version:
 
 [🌐 **Open clarG on Netlify**](https://clarg.netlify.app/)
 
+(chatrooms dont work on netlify i think im too lazy to fix today ill maybe fix tomorrow)
+
 ### Previous Version
 [▶ Play the Old Version](https://script.google.com/macros/s/AKfycbyVcM3ANiOAu3EkScQvRsRkByemMDjmOZXnexY5N2dHs0eHZUKaiyldIlok4zCgv_-2/exec)
 
