@@ -7,7 +7,7 @@
 ## 🚀 Play clarG
 
 ### Latest Version
-[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbxaOtm564JrIMrAyz-UXlJAf0sBqvK2ZlzwEm-ERDRgJW-pc_3GefbyQGTP_gLcFy5K/exec)
+[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbwDJmxINI5yVftyDVjs9Pbtmk4ru32RYnRyl56Qxol1wMBh4mY7BpZjrGjI44BenUb1/exec)
 
 **Google Apps Script not working or blocked?**  
 Try the Netlify version:
