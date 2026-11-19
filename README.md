@@ -7,7 +7,7 @@
 ## 🚀 Play clarG
 
 ### Latest Version
-[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbwFgB3TDu8d72yuUCJxKZ-2ElgdQKprpubMPLrG-e8skeOqxsOB5RmmLAk74ADmnobN/exec)
+[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbxaOtm564JrIMrAyz-UXlJAf0sBqvK2ZlzwEm-ERDRgJW-pc_3GefbyQGTP_gLcFy5K/exec)
 
 **Google Apps Script not working or blocked?**  
 Try the Netlify version:
@@ -17,7 +17,7 @@ Try the Netlify version:
 (chatrooms dont work on netlify i think im too lazy to fix today ill maybe fix tomorrow)
 
 ### Previous Version
-[▶ Play the Old Version](https://script.google.com/macros/s/AKfycbyVcM3ANiOAu3EkScQvRsRkByemMDjmOZXnexY5N2dHs0eHZUKaiyldIlok4zCgv_-2/exec)
+[▶ Play the Old Version](https://script.google.com/macros/s/AKfycbwFgB3TDu8d72yuUCJxKZ-2ElgdQKprpubMPLrG-e8skeOqxsOB5RmmLAk74ADmnobN/exec)
 
 ---
 
@@ -49,10 +49,8 @@ Join the Discord:
 
 ### 🆕 Newest Version
 
-- 🖼️ Added a loading screen for game thumbnails.
-- 🎮 You can now resume a game after leaving it to visit the chatrooms.
-- ❓ Added a FAQ section.
-- 🛠️ Various small fixes and improvements.
+-  Added gemini 3.1 flash lite ai.
+- 🛠️ Various fixes
 
 ---
 
