@@ -1,7 +1,5 @@
 # 🎮 clarG
 
-> A place to play games, discover new ones, and mess around with friends.
-
 <badge color="success">LATEST VERSION</badge>
 
 ## 🚀 Play clarG
@@ -64,8 +62,4 @@ The project is still being worked on, so expect bugs, random changes, and new ga
 
 ---
 
-**Thanks for using clarG! ❤️**
-
-And seriously...
-
-**please join the Discord.**
+JOIN THE DISCORD PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS
