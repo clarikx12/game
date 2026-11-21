@@ -5,7 +5,7 @@
 ## 🚀 Play clarG
 
 ### Latest Version
-[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbwDJmxINI5yVftyDVjs9Pbtmk4ru32RYnRyl56Qxol1wMBh4mY7BpZjrGjI44BenUb1/exec)
+[▶ **Play clarG — Latest Version**](https://script.google.com/macros/s/AKfycbxRZXY2cPmFbuqoA2MKCebiTZ_7jqs6V9c0dftZlwyKgprOMy4AxRQvinj-LcAEojzA/exec)
 
 **Google Apps Script not working or blocked?**  
 Try the Netlify version:
@@ -39,7 +39,6 @@ Join the Discord:
 
 [💜 **Join the clarG Discord Server**](https://discord.gg/AAr7ynwS3T)
 
-**Seriously, please join. I'm begging you. 😭**
 
 ---
 
@@ -48,17 +47,14 @@ Join the Discord:
 ### 🆕 Newest Version
 
 -  Added gemini 3.1 flash lite ai.
+-  Added youtube (fyp might be a little funky because its combined from every watch using the token api thingy)
 - 🛠️ Various fixes
 
 ---
 
 ## 🎮 About clarG
 
-clarG is an individual project made for playing games directly from the browser.
-
-It's basically a place to keep a bunch of games together so you don't have to hunt around for them.
-
-The project is still being worked on, so expect bugs, random changes, and new games to be added over time.
+play games
 
 ---
 
